@@ -13,3 +13,7 @@ In the fast-paced world we live in, it is crucial to remember the importance of 
 - Get adequate sleep.
 - Eat nutritious meals.
 - Exercise regularly.
+- **Mental Care:**  
+- Take breaks when needed.  
+- Practice mindfulness or meditation.  
+- Engage in hobbies or activities you enjoy.
