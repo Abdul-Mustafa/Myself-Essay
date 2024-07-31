@@ -20,3 +20,7 @@ In the fast-paced world we live in, it is crucial to remember the importance of 
 - **Emotional Care:**
 - Connect with friends and family.
 - Express your feelings through journaling or art.- Seek professional help if needed.
+## Setting Boundaries
+- **Learn to Say No:** Prioritize your well-being by not overcommitting.
+- **Time Management:** Allocate time for work, rest, and play. Maintain a balance to prevent burnout.
+- **Digital Detox:** Limit screen time and take regular breaks from technology.
