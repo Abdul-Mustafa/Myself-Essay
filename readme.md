@@ -9,3 +9,7 @@ In the fast-paced world we live in, it is crucial to remember the importance of 
 - **Forgive Yourself:** Understand that everyone makes mistakes. Learn from them and move on without dwelling on guilt.
 
 ## Self-Care Practices
+- **Physical Care:**
+- Get adequate sleep.
+- Eat nutritious meals.
+- Exercise regularly.
